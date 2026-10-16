@@ -1,0 +1,18 @@
+print("Welcome to Ride Builder!")
+print()
+print("step 1: pick your vehicle")
+print("1 - bike")
+print("2 - car")
+print()
+choice = int(input("Enter 1 or 2":))
+if choice == 1:
+    print("step 2: pick your bike type")
+    print("1 - scooty")
+    print("2 - mountain bike")
+    print()
+    bike_type int(input("Enter 1 or 2":))
+    print()
+    if bike_type== 1
+    print("You picked : scooty")
+    print("top speed : 80 km/h")
+    print("")
